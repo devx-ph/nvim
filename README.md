@@ -13,7 +13,7 @@ My neovim setup
 cd ~/.config/nvim
 ```
 ```bash
-git clone https://github.com/igortxra/nvim.git .
+git clone https://github.com/devx-ph/nvim.git .
 ```
 ```bash
 . ./install.sh
